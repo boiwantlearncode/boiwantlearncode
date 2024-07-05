@@ -1,11 +1,6 @@
-### Welcome to my repository! 
+### What I'm working on:
 
-Here's some information about me:
-
-- I'm currently a first year Computer Engineering student
-- I participated in 3 Hackathons and won prizes from 2 of them 🏆
-- I ❤️ UI/UX design
-- I have too many unfinished and unreleased projects and now I am working on small projects that I can work on consistently
+- Open source information hub of all the hobbies that exist 
 
 <!--
 **boiwantlearncode/boiwantlearncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
